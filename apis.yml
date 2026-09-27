@@ -1,23 +1,79 @@
 aid: beatthebomb
+
 name: Beatthebomb
-description: 'Beatthebomb is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.beatthebomb.com/media/wf/65eb3080d0dc67be30dd0790_Brooklyn.avif
+
+description: Beat The Bomb provides immersive, team‑building experiences where participants suit up in hazmat gear and race to disarm paint, foam
+  or slime bombs in themed rooms across multiple US cities. The company offers both in‑person locations—Atlanta, Brooklyn, Charlotte, DC, Denver,
+  Houston, Philadelphia—and virtual experiences, combining puzzle solving, physical challenges and a competitive leaderboard to foster teamwork
+  and fun.
+
 url: https://raw.githubusercontent.com/api-evangelist/beatthebomb/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-27 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-27'
+
 modified: '2026-09-27'
+
 tags:
 - Company
-apis: []
+- Team Building
+- Immersive Experience
+- Entertainment
+- US Locations
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/beatthebomb-llms.txt
+- type: Hosts
+  url: hosts/beatthebomb-hosts.yml
+- type: TermsOfService
+  url: https://www.beatthebomb.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.beatthebomb.com/privacy-policy
+- type: DomainSecurity
+  url: security/beatthebomb-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/beatthebomb
+  url: https://www.beatthebomb.com
+- type: Documentation
+  url: https://www.beatthebomb.com/api/docs
+- type: APIReference
+  url: https://www.beatthebomb.com/api/docs
+- type: Support
+  url: https://www.beatthebomb.com/contact-us
+
+apis:
+- name: BeatTheBomb API
+  description: Provides immersive team‑building experiences API (locations, missions, bookings).
+  humanURL: https://www.beatthebomb.com/api/docs
+  aid: beatthebomb:beatthebomb-api
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: API documentation at https://www.beatthebomb.com/api/docs renders a Swagger UI with no raw OpenAPI file accessible.
+  evidence:
+  - url: https://www.beatthebomb.com/api/docs
+    status: 200
+  checked: '2026-09-27'
+x-enrichment:
+  date: '2026-09-27'
+  status: enriched
+  artifacts_added: 7
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

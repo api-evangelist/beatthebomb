@@ -1,0 +1,29 @@
+# Beat The Bomb
+
+> Beat The Bomb is an immersive team-based game experience. Teams of 4+ suit up in hazmat gear and race through a gauntlet of interactive game rooms to hack a giant bomb — win and stay clean, lose and get blasted with paint, foam, or slime. Popular for corporate team building, birthday parties, and group events across 7 US locations.
+
+## Locations
+- [Atlanta](https://www.beatthebomb.com/locations/atlanta): 1483 Chattahoochee Ave NW, Atlanta, GA, 30318 — (518) 207-9440
+- [Brooklyn](https://www.beatthebomb.com/locations/brooklyn): 255 Water St, Brooklyn, NY, 11201 — (518) 207-9440
+- [Charlotte](https://www.beatthebomb.com/locations/charlotte): South End, 3638 Tryclan Dr., Charlotte, NC, 28217 — (518) 207-9440
+- [DC](https://www.beatthebomb.com/locations/dc): 2005 Hecht Ave NE, Washington, DC, 20002 — (518) 207-9440
+- [Denver](https://www.beatthebomb.com/locations/denver): York Street Yards, 3863 Steele St Unit 1273, Denver, CO, 80205 — (518) 207-9440
+- [Houston](https://www.beatthebomb.com/locations/houston): 2103 Lyons Ave #300, Houston, TX, 77020 — (518) 207-9440
+- [Philadelphia](https://www.beatthebomb.com/locations/philadelphia): Center City, 1218 Chestnut St., Philadelphia, PA, 19107 — (518) 207-9440
+
+## Experiences
+- [Paint Bomb Mission](https://www.beatthebomb.com/games/paint-bomb): Get splattered with paint if you lose!
+- [Foam Bomb Mission](https://www.beatthebomb.com/games/foam-bomb): Get covered in foam if you lose!
+- [Slime Bomb Mission](https://www.beatthebomb.com/games/slime-bomb): Get slimed if you lose!
+- [Cash Bomb](https://www.beatthebomb.com/games/cash-bomb): The final mission. You’ve earned the right. Now go win $1,000.
+- [Arcade Bomb Battle](https://www.beatthebomb.com/games/arcade-bomb-battle): Competitive arcade gaming with an explosive twist!
+
+## Booking & Events
+- [Book a mission](https://www.beatthebomb.com/locations): choose a location, then book online
+- [Private & corporate events](https://www.beatthebomb.com/events): dedicated events team, food & bar packages, private room rentals
+- [FAQs](https://www.beatthebomb.com/faqs): group sizes, age limits, what to wear, how the blast works
+
+## More
+- [Virtual team building](https://www.beatthebomb.com/virtual)
+- [Careers](https://www.beatthebomb.com/careers)
+- [Full detail for LLMs](https://www.beatthebomb.com/llms-full.txt)
